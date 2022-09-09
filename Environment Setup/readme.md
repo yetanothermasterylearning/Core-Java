@@ -17,10 +17,14 @@
 ### Mac OS ##
 - JDK v1.8 installation process for Mac OS
     1. Go to [java v1.8](https://www.oracle.com/java/technologies/downloads/#java8). Click on JDK Download for Java download JDK 8.
+    ![java v1.8 download](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/jdk_v1.8_download.png)
     2. Accept License Agreement.
     3. Download Java 8 JDK for your version 32 bit or JDK download 64 bit depending on your System.
     4. click on the Installation link. Click on I reviewed and accept the Oracle Technology Network License Agreement for Oracle Java SE development kit and you will be redirected to the login page. If you don’t have an oracle account you can easily sign up by adding basics details of yours.
     NOTE: You will be required to create an Oracle Account to start Java 8 download of the file.
     5. Once the Java JDK 8 download is complete, run the exe for install JDK. Click Next.
-    6. Select the PATH to install Java in Windows… You can leave it Default. Click next.
-    7. Once you install Java in mac, click Close.
+    ![java v1.8 installation_1](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/jdk_installation_1.png)
+    6. Once you install Java in mac, click Close.
+    ![java v1.8 installation_2](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/jdk_installation_2.png)
+    7. Validate JDK and JRE version. Open Terminal app in mac and run `javac -version` and `java -version`
+    ![jdk verison validation using terminal](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/terminal_jdk_jre_version_check.png)
