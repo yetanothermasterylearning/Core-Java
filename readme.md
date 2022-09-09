@@ -2,15 +2,15 @@
 
 - Introduction
     1. Introduction to computer
-    2. What is programming language? What/Why Java?
-- Enviroment Setup
+    2. What is a  programming language? What/Why Java?
+- Environment Setup
     1. JDK installation
     2. The <span style="color:yellow">Hello World</span> Program using Notepad
     3. Eclipse IDE installation
     4. The <span style="color:yellow">Hello 
     World</span> Program using Eclipse IDE
     5. Java program execution flow
-    6. Java program strcture
+    6. Java program structure
 - Programming Basics
     1. Data types
     2. Operators
@@ -22,7 +22,7 @@
 - Inheritance
 - Abstraction
 - Interface
-- Ploymorphism
+- Polymorphism
 - Adv.OOP
     1. Final class
     2. Marker Interface
@@ -36,9 +36,9 @@
     2. External packages
     3. import vs static import
 - Wrapper classes and Type conversion
-    1. Auto boxing
+    1. Autoboxing
     2. Unboxing
-    3. Type converstion
+    3. Type conversion
 - Exception Handling
     1. Try/Catch/Finally
     2. throw/throws
@@ -55,7 +55,7 @@
 - Collection Framework
     1. General collection utilities
     2. Concurrent Collections
-- Java8
+- Java 8
     1. Lambda
     2. Functional interface
     3. Predicate
@@ -74,4 +74,6 @@
     1. Short cuts
     2. Perspectives
     3. Debugging
-- How to face programming questions in Interview
+- Miscellaneous
+    1. Multiple Java versions management in Mac OS without external tools
+    2. Uninstall JDK from Mac OS
