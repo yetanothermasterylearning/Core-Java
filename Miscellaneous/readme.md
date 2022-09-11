@@ -6,6 +6,7 @@
     ```
     /usr/libexec/java_home -V
     ```
+    ![JavaVersions](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Miscellaneous/Pictures/java%20all%20versions.png)
     2. We can also check the home directory of specific java version by issuing the following command:
     ```
     /usr/libexec/java_home -v 1.8
@@ -21,6 +22,7 @@
     alias java8='export JAVA_HOME=$JAVA_8_HOME'
     alias java11='export JAVA_HOME=$JAVA_17_HOME'
     ```
+    ![bash_script](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Miscellaneous/Pictures/bash_script.png)
     5. Close and reopen the terminal or source the bash_profile using following command
     ```
     source ~/.bash_profile
@@ -29,7 +31,7 @@
     ```
     java8
     ```
-
+    ![java_results](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Miscellaneous/Pictures/results.png)
 - Uninstall JDK from Mac OS
 	``` 
 	sudo rm -rf /Library/Java/*

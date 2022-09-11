@@ -74,6 +74,6 @@
     1. Short cuts
     2. Perspectives
     3. Debugging
-- Miscellaneous
-    1. Multiple Java versions management in Mac OS without external tools
+- [Miscellaneous](https://github.com/yetanothermasterylearning/Core-Java/tree/main/Miscellaneous)
+    1. Managemen multiple Java versions in Mac OS without external tools
     2. Uninstall JDK from Mac OS
