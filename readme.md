@@ -1,6 +1,6 @@
 ## Core Java Crash Course ##
 
-- Introduction
+- [Introduction](https://github.com/yetanothermasterylearning/Core-Java/tree/main/Introduction)
     1. Introduction to computer
     2. What is a  programming language? What/Why Java?
 - [Environment Setup](https://github.com/yetanothermasterylearning/Core-Java/tree/main/Environment%20Setup)
