@@ -70,7 +70,7 @@
 
 ### Eclipse IDE installation and Running Basic java project ###
 - The <span style="color:yellow">Hello World</span> Program using Eclipse
-    1. Download Eclipse Installer from http://www.eclipse.org/downloads
+    1. Download Eclipse [Installer](http://www.eclipse.org/downloads)
     2. Start the Eclipse Installer executable
     3. Select the Eclipse IDE for java EE Developer package to install
     4. Launch Eclipse and select a work space folder and click launch
@@ -81,18 +81,28 @@
     ![eclipse_java_project_name](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/eclipse_java_project_name.png)
     7. click next for project structure(source files in src folder and class files in bin folder) and click finish
     ![eclipse_java_project_strcture](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/eclipse_java_project_strcture.png)
-    8. open sample project and create a Sample.java file in src folder. right click on src folder and select class option from new menu.
+    8. Expand sample project and create a Sample.java file in src folder. right click on src folder and select class option from new menu.
     ![eclipse_new_java_file](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/eclipse_new_java_file.png)
     9. privide java class name as `Sample` and check public static void main(String[] args) option and click finish. This will bootstrap the java file with main method.
     ![eclipse_new_java_project_name](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/eclipse_new_java_project_name.png)
     10. Add `System.out.println("Hello World!");` code inside main method
     ![eclipse_java_code](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/eclipse_java_code.png)
-    11. Run the project using the green button and check the results at console window in eclipse
+    11. Run the project using the green button and check the results at console window.
     ![eclipse_java_code_run](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/eclipse_java_code_run.png)
 
 ### Intellij Idea IDE installation and Running Basic java project ###
 - The <span style="color:yellow">Hello World</span> Program using Intellij Idea
-    1. 
+    1. Download [Intellij Idea](https://www.jetbrains.com/idea/download/#section=mac) setup and follow normal installation steps.
+    2. Open Intellij Idea IDE and select new project on welcome screen
+    3. Provide project name and JDK configuration path and click create button
+    [intellij_new_project](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/intellij_new_project.png)
+    4. Expand sample project and create a Sample.java file in src folder. right click on src folder and select class option from new menu.
+    ![intellij_new_java_file](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/intellij_new_java_file.png)
+    5. Add `System.out.println("Hello World!");` code inside main method
+    ![intellij_java_code](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/intellij_java_code.png)
+    6. Run the project using the Run menu from the top bar and check the results at Run window.
+    ![intellij_java_code_run](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/intellij_java_code_run.png)
+
 
 ### Java program execution flow ###
 - Java program execution flow
