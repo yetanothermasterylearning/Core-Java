@@ -70,7 +70,25 @@
 
 ### Eclipse IDE installation and Running Basic java project ###
 - The <span style="color:yellow">Hello World</span> Program using Eclipse
-    1. Eclipse IDE installation
+    1. Download Eclipse Installer from http://www.eclipse.org/downloads
+    2. Start the Eclipse Installer executable
+    3. Select the Eclipse IDE for java EE Developer package to install
+    4. Launch Eclipse and select a work space folder and click launch
+    ![eclipse_launch](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/eclipse_launch.png)
+    5. Close welcome screen and create a java project from file menu -> new -> project -> java project
+    ![eclipse_new_java_project](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/eclipse_new_java_project.png)
+    6. click next and give project name - "Sample", Use an execution environment  and unselect create module-info.java file check box.
+    ![eclipse_java_project_name](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/eclipse_java_project_name.png)
+    7. click next for project structure(source files in src folder and class files in bin folder) and click finish
+    ![eclipse_java_project_strcture](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/eclipse_java_project_strcture.png)
+    8. open sample project and create a Sample.java file in src folder. right click on src folder and select class option from new menu.
+    ![eclipse_new_java_file](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/eclipse_new_java_file.png)
+    9. privide java class name as `Sample` and check public static void main(String[] args) option and click finish. This will bootstrap the java file with main method.
+    ![eclipse_new_java_project_name](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/eclipse_new_java_project_name.png)
+    10. Add `System.out.println("Hello World!");` code inside main method
+    ![eclipse_java_code](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/eclipse_java_code.png)
+    11. Run the project using the green button and check the results at console window in eclipse
+    ![eclipse_java_code_run](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/eclipse_java_code_run.png)
 
 ### Intellij Idea IDE installation and Running Basic java project ###
 - The <span style="color:yellow">Hello World</span> Program using Intellij Idea
