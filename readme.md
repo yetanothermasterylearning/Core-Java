@@ -7,14 +7,15 @@
     1. JDK installation
     2. The <span style="color:yellow">Hello World</span> Program using Notepad
     3. Eclipse IDE installation
-    4. The <span style="color:yellow">Hello 
-    World</span> Program using Eclipse IDE
-    5. Java program execution flow
-    6. Java program structure
+    4. The <span style="color:yellow">Hello World</span> Program using Eclipse IDE
+    5. Intellij Idea IDE installation
+    6. The <span style="color:yellow">Hello World</span> Program using Intellij Idea IDE
+    7. Java program execution flow
 - Programming Basics
     1. Data types
     2. Operators
     3. Control statements
+    4. Java program structure
 - Introduction to Object oriented Concepts
     1. Object oriented Programming Principles
 - Class vs Object

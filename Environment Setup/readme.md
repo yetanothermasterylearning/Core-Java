@@ -28,7 +28,7 @@
     5. Click the New button and enter the path to the Java bin directory and click ok to save the changes and exit the variable editing window.
     ![windows_enviroment variable setting_4](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/windows_enviroment%20variable%20setting_4.png)
     ![windows_enviroment variable setting_5](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/windows_enviroment%20variable%20setting_5.png)
-- How to set Java_home Environment Variable.
+- How to set JAVA_HOME Environment Variable.
     1. In the Environment Variables window, under the System variables category, click the New… button to create a new variable.
     ![windows_enviroment variable setting_1](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/windows_enviroment%20variable%20setting_1.png)
     2. Name the variable as JAVA_HOME.
@@ -53,12 +53,32 @@
 
 ### Running a Sample Java Program ###
 - The <span style="color:yellow">Hello World</span> Program using Notepad
-    1. Open any text editor like notepad, sublime text
-    2. Enter following code
+    1. Open any text editor like notepad or sublime text
+    2. Enter following code and save the file name as `Sample.java`
     ```
     public class Sample {
         public static void main(String[] args) {
-            
+            System.out.println("Hello world!");
         }
     }
     ```
+    3. Open command prompt(in windows) or Terminal(in macos)
+    4. go to the file location using cd command
+    5. use javac command to compile the Sample.java file - `$javac Sample.java`
+    6. use java commant to run the Sample.java file - `$java Sample`
+    ![java run a code](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/java_code_run.png)
+
+### Eclipse IDE installation and Running Basic java project ###
+- The <span style="color:yellow">Hello World</span> Program using Eclipse
+    1. Eclipse IDE installation
+
+### Intellij Idea IDE installation and Running Basic java project ###
+- The <span style="color:yellow">Hello World</span> Program using Intellij Idea
+    1. 
+
+### Java program execution flow ###
+- Java program execution flow
+    1.
+
+
+
