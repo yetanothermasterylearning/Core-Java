@@ -107,6 +107,6 @@
 ### Java program execution flow ###
 - Java program execution flow
     1. First, the source `.java` file is passed through the compiler, which then encodes the source code into a machine-independent encoding, known as Bytecode. The content of each class contained in the source file is stored in a separate `.class` file and `.class` files are run on top of JRE.
-    ![java_execution_flow](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/java_execution_flow)
+    ![java_execution_flow](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/java_execution_flow.png)
 
 
