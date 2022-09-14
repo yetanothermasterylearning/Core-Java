@@ -95,7 +95,7 @@
     1. Download [Intellij Idea](https://www.jetbrains.com/idea/download/#section=mac) setup and follow normal installation steps.
     2. Open Intellij Idea IDE and select new project on welcome screen
     3. Provide project name and JDK configuration path and click create button
-    [intellij_new_project](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/intellij_new_project.png)
+    ![intellij_new_project](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/intellij_new_project.png)
     4. Expand sample project and create a Sample.java file in src folder. right click on src folder and select class option from new menu.
     ![intellij_new_java_file](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/intellij_new_java_file.png)
     5. Add `System.out.println("Hello World!");` code inside main method
@@ -106,7 +106,7 @@
 
 ### Java program execution flow ###
 - Java program execution flow
-    1.
-
+    1. First, the source `.java` file is passed through the compiler, which then encodes the source code into a machine-independent encoding, known as Bytecode. The content of each class contained in the source file is stored in a separate `.class` file and `.class` files are run on top of JRE.
+    ![java_execution_flow](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Environment%20Setup/Pictures/java_execution_flow)
 
 
