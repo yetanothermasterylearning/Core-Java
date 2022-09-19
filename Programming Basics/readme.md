@@ -1,5 +1,4 @@
 ## Programming Basics ##
-- Data types
-- Operators
-- Control statements
-- Java project structure
+- [Data types, Operators and Variables]()
+- [Control statements]()
+- [Java project structure]()
