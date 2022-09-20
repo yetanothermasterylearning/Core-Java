@@ -16,17 +16,15 @@
     2. Operators
     3. Control statements
     4. Java program structure
-- Introduction to Object oriented Concepts
+- [Object oriented Programming](https://github.com/yetanothermasterylearning/Core-Java/tree/main/Object%20oriented%20Programming)
     1. Object oriented Programming Principles
-- Class vs Object
-- Encapsulation
-- Inheritance
-- Abstraction
-- Interface
-- Polymorphism
-- Adv.OOP
-    1. Final class
-    2. Marker Interface
+    2. Class
+    3. Object
+    4. Encapsulation
+    5. Inheritance
+    6. Abstraction
+    7. Interface
+    8. Polymorphism
 - Modifiers and Keywords
     1. Static vs Non static
     2. Private vs Public vs default vs Protected
@@ -71,6 +69,9 @@
     6. Jar
     7. Maven and JUnit
     8. JVM
+- Adv.OOP
+    1. Final class
+    2. Marker Interface
 - Eclipse
     1. Short cuts
     2. Perspectives
