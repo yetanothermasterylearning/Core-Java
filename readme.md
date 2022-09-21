@@ -25,15 +25,15 @@
     6. Abstraction
     7. Interface
     8. Polymorphism
-- Modifiers and Keywords
-    1. Static vs Non static
-    2. Private vs Public vs default vs Protected
-    3. this vs super
-    4. Final
-- Packages
-    1. Internal packages
-    2. External packages
-    3. import vs static import
+- [Modifiers and Keywords](https://github.com/yetanothermasterylearning/Core-Java/tree/main/Modifiers%20and%20Keywords)
+    1. Private vs Public vs default vs Protected
+    2. Static vs Non static
+    3. Final
+    4. Abstract
+    5. this vs super
+    6. Packages
+    7. Internal packages, External packages
+    8. import vs static import
 - Wrapper classes and Type conversion
     1. Autoboxing
     2. Unboxing
