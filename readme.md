@@ -50,10 +50,10 @@
     1. Equals
     2. Hashcode
     3. toString
-- Multithreading
 - Collection Framework
     1. General collection utilities
     2. Concurrent Collections
+- Multithreading
 - Java 8
     1. Lambda
     2. Functional interface
