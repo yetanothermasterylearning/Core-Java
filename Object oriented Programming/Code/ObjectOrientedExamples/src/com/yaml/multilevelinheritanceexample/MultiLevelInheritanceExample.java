@@ -11,6 +11,7 @@ public class MultiLevelInheritanceExample {
 		grandChild.displayParent(); // method extended from parent class
 		grandChild.displayChild(); // method extended from child class
 		grandChild.displayGrandChild(); // method extended from grand child class
+		grandChild.display();
 		
 		System.out.println("child object operations:");
 		Child child = new Child();
@@ -18,6 +19,7 @@ public class MultiLevelInheritanceExample {
 		child.setAge(65);
 		child.displayParent(); // method extended from parent
 		child.displayChild();
+		child.display();
 		
 		System.out.println("parent object operations:");
 		Parent parent = new Parent();
@@ -50,6 +52,10 @@ class Parent {
 		System.out.println("Inside parent class method.");
 		System.out.println(" Name :"+name);
 		System.out.println();
+	}
+	
+	protected void display() {
+		System.out.println("Inside parent class display method.");
 	}
 }
 

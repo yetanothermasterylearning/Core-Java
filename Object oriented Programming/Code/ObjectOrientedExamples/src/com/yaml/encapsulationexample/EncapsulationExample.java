@@ -5,6 +5,7 @@ public class EncapsulationExample {
 	public static void main(String[] args) {
 		System.out.println("Employee 1 details:");
 		Employee employee1 = new Employee();
+		//employee1.name = "";
 		employee1.setName("Rama"); // secure the data access using private and public getters and setters
 		employee1.setBirthYear(1990);
 		employee1.display();
@@ -37,7 +38,8 @@ class Employee {
 	 */
 	// default constructor - set instance variables to default values
 	Employee() {
-		
+		this.name = "";
+		this.birthYear = 1990;
 	}
 	
 	//parameter constructor - set instance variables to passed values
@@ -73,8 +75,8 @@ class Employee {
 	
 	// instance method
 	void display() {
-		System.out.println("Name : "+name);
-		System.out.println("BirthYear : "+birthYear);
+		System.out.println("Name : "+this.name);
+		System.out.println("BirthYear : "+this.birthYear);
 		System.out.println("Age : "+getAge());
 	}
 	
