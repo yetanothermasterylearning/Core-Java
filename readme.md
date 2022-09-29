@@ -34,18 +34,20 @@
     6. Packages
     7. Internal packages, External packages
     8. import vs static import
-- Wrapper classes and Type conversion
-    1. Autoboxing
-    2. Unboxing
-    3. Type conversion
-- Exception Handling
+- [String](https://github.com/yetanothermasterylearning/Core-Java/tree/main/String)
+    1. Array data structure
+    2. String
+    3. Immutability
+    4. StringBuffer vs StringBuilder
+- [Exception Handling](https://github.com/yetanothermasterylearning/Core-Java/tree/main/Exception%20and%20Handling)
     1. Try/Catch/Finally
     2. throw/throws
     3. Exceptions and hierarchy
     4. Custom Exceptions
-- String
-    1. Immutability
-    2. StringBuffer vs StringBuilder
+- Wrapper classes and Type conversion
+    1. Autoboxing
+    2. Unboxing
+    3. Type conversion
 - Object class
     1. Equals
     2. Hashcode
