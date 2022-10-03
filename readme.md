@@ -39,15 +39,16 @@
     2. String
     3. Immutability
     4. StringBuffer vs StringBuilder
+- [Wrapper classes](https://github.com/yetanothermasterylearning/Core-Java/tree/main/Wrapper%20classes)
+    1. Autoboxing
+    2. Unboxing
+    3. Type conversion
 - [Exception Handling](https://github.com/yetanothermasterylearning/Core-Java/tree/main/Exception%20and%20Handling)
     1. Try/Catch/Finally
     2. throw/throws
     3. Exceptions and hierarchy
     4. Custom Exceptions
-- Wrapper classes and Type conversion
-    1. Autoboxing
-    2. Unboxing
-    3. Type conversion
+
 - Object class
     1. Equals
     2. Hashcode

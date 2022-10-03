@@ -37,6 +37,13 @@ public abstract class Enemy {
 		this.energy = energy;
 	}
 	
-	public abstract void attack();
-	public abstract boolean isDead();
+	// Functionality
+	public abstract void attack(Hero hero);
+	
+	//Implementation
+	public boolean isDead() {
+		int energy = getEnergy();
+		boolean isAnimalEnergyIsZero = energy <= 0;
+		return isAnimalEnergyIsZero;
+	}
 }

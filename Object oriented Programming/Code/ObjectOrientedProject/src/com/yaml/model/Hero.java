@@ -1,6 +1,6 @@
 package com.yaml.model;
 
-public class Hero {
+public class Hero { // extends Object
 	
 	private String name;
 	private int energy;
@@ -57,5 +57,11 @@ public class Hero {
 			System.out.println("Congrats!! you killed the "+ alien.getName()+ " and got 100 points");
 			this.energy = this.energy + 100; 
 		}
+	}
+	
+	public boolean isDead() {
+		int energy = getEnergy();
+		boolean isAnimalEnergyIsZero = energy <= 0;
+		return isAnimalEnergyIsZero;
 	}
 }
