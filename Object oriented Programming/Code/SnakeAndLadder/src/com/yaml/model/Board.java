@@ -8,12 +8,12 @@ public class Board {
 		this.size = 100;
 	}
 	
-	public Board(int maximumNumber) {
+	public Board(int size) {
 		super();
-		this.size = maximumNumber;
+		this.size = size;
 	}
 
-	public int getMaximumNumber() {
+	public int getSize() {
 		return size;
 	}
 }
