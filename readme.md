@@ -48,7 +48,6 @@
     2. throw/throws
     3. Exceptions and hierarchy
     4. Custom Exceptions
-
 - Object class
     1. Equals
     2. Hashcode
