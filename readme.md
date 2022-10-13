@@ -52,9 +52,10 @@
     1. Equals
     2. Hashcode
     3. toString
-- Collection Framework
-    1. General collection utilities
-    2. Concurrent Collections
+- [Collection Framework](https://github.com/yetanothermasterylearning/Core-Java/tree/main/Collection%20Framework)
+    1. Data Strctures basics
+    2. General collection utilities
+    3. Concurrent Collections
 - Multithreading
 - Java 8
     1. Lambda
