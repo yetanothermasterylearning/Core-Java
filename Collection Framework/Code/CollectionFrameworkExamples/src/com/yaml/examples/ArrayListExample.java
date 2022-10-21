@@ -12,6 +12,8 @@ public class ArrayListExample {
 		intArrayList.add(4);
 		intArrayList.add(5);
 		intArrayList.add(6);
+		intArrayList.add(6);
+		intArrayList.add(6);
 		intArrayList.add(7);
 		intArrayList.add(8);
 		intArrayList.add(9);
