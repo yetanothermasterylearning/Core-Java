@@ -43,11 +43,11 @@ public class SetExample {
 		// Sorting order
 		intHashset = new TreeSet<Integer>();
 		//12, 23, 56, 43,
-		intHashset.add(12);
-		intHashset.add(23);
-		intHashset.add(56);
-		intHashset.add(43);
-		intHashset.add(23);
+		intHashset.add(12); //12
+		intHashset.add(23);	//12,23
+		intHashset.add(56); //12,23,56
+		intHashset.add(43); //12,23,43,56
+		intHashset.add(23); //12,23,43,56
 		
 		System.out.println("TreeSet display:");
 		iterator = intHashset.iterator();
