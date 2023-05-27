@@ -1,9 +1,10 @@
 ## Core Java Crash Course ##
 
-- [Introduction](https://github.com/yetanothermasterylearning/Core-Java/tree/main/1.%20Introduction)
+- [Introduction](https://github.com/yetanothermasterylearning/Core-Java/tree/main/01.%20Introduction)
     1. Introduction to computer
-    2. What is a  programming language? What/Why Java?
-- [Environment Setup](https://github.com/yetanothermasterylearning/Core-Java/tree/main/2.%20Environment%20Setup)
+    2. What is a  programming language? 
+    3. What/Why Java?
+- [Environment Setup](https://github.com/yetanothermasterylearning/Core-Java/tree/main/02.%20Environment%20Setup)
     1. JDK installation
     2. The <span style="color:yellow">Hello World</span> Program using Notepad
     3. Eclipse IDE installation
