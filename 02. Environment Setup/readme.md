@@ -1,5 +1,7 @@
 ## Environment Setup ##
 1. JDK installation
+    - Windows
+    - Mac OS
 2. The <span style="color:yellow">Hello World</span> Program using Notepad
 3. Eclipse IDE installation
 4. The <span style="color:yellow">Hello World</span> Program using Eclipse IDE
