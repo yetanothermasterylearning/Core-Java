@@ -3,7 +3,8 @@
 - [Introduction](https://github.com/yetanothermasterylearning/Core-Java/tree/main/01.%20Introduction)
     1. Introduction to computer
     2. What is a  programming language? 
-    3. What/Why Java?
+    3. What is Java?
+    4. JDK, JRE and JVM
 - [Environment Setup](https://github.com/yetanothermasterylearning/Core-Java/tree/main/02.%20Environment%20Setup)
     1. JDK installation
     2. The <span style="color:yellow">Hello World</span> Program using Notepad
