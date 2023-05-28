@@ -1,11 +1,12 @@
 ## Environment Setup ##
-    1. JDK installation
-    2. The <span style="color:yellow">Hello World</span> Program using Notepad
-    3. Eclipse IDE installation
-    4. The <span style="color:yellow">Hello World</span> Program using Eclipse IDE
-    5. Intellij Idea IDE installation
-    6. The <span style="color:yellow">Hello World</span> Program using Intellij Idea IDE
-    7. Java program execution flow
+1. JDK installation
+2. The <span style="color:yellow">Hello World</span> Program using Notepad
+3. Eclipse IDE installation
+4. The <span style="color:yellow">Hello World</span> Program using Eclipse IDE
+5. Intellij Idea IDE installation
+6. The <span style="color:yellow">Hello World</span> Program using Intellij Idea IDE
+7. Java program execution flow
+
 ### Windows ###
 - JDK v1.8 installation process for Windows
     1. Go to [java v1.8](https://www.oracle.com/java/technologies/downloads/#java8). Click on JDK Download for Java download JDK 8.
