@@ -5,7 +5,7 @@
 2. [The <span style="color:yellow">Hello World</span> Program using Notepad](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=Running%20a%20Sample%20Java%20Program)
 3. [Eclipse IDE installation](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=Eclipse%20IDE%20installation%20and%20Running%20Basic%20java%20project)
 4. The <span style="color:yellow">Hello World</span> Program using Eclipse IDE
-5. [Intellij Idea IDE installation](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=Intellij%20Idea%20IDE%20installation%20and%20Running%20Basic%20java%20project)
+5. [Intellij Idea IDE installation - Optional](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=Intellij%20Idea%20IDE%20installation%20and%20Running%20Basic%20java%20project)
 6. The <span style="color:yellow">Hello World</span> Program using Intellij Idea IDE
 7. [Java program execution flow](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=at%20Run%20window.-,Java%20program%20execution%20flow,-Java%20program%20execution)
 
@@ -100,6 +100,7 @@
     ![eclipse_java_code_run](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/Pictures/eclipse_java_code_run.png)
 
 ### Intellij Idea IDE installation and Running Basic java project ###
+- **If you have already installed Eclipse, there is no need to install IntelliJ Idea IDE. It is an optional step included for informational purposes only.**
 - The <span style="color:yellow">Hello World</span> Program using Intellij Idea
     1. Download [Intellij Idea](https://www.jetbrains.com/idea/download/#section=mac) setup and follow normal installation steps.
     2. Open Intellij Idea IDE and select new project on welcome screen

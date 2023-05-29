@@ -10,8 +10,8 @@
     2. The <span style="color:yellow">Hello World</span> Program using Notepad
     3. Eclipse IDE installation
     4. The <span style="color:yellow">Hello World</span> Program using Eclipse IDE
-    5. Intellij Idea IDE installation
-    6. The <span style="color:yellow">Hello World</span> Program using Intellij Idea IDE
+    5. Intellij Idea IDE installation (Optional)
+    6. The <span style="color:yellow">Hello World</span> Program using Intellij Idea IDE (Optional)
     7. Java program execution flow
 - [Programming Basics](https://github.com/yetanothermasterylearning/Core-Java/tree/main/03.%20Programming%20Basics)
     1. Data types
