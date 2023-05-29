@@ -17,10 +17,10 @@
 	```
     4. add alias commands in .bash_profile in such a way that we can easily change java version using single command.
     ```
-    export JAVA_8_HOME=$(/usr/libexec/java_home -v1.8)
-    export JAVA_17_HOME=$(/usr/libexec/java_home -v17)
+    export JAVA_8_HOME="/Library/Java/JavaVirtualMachines/jdk-1.8.jdk/Contents/Home"
+    export JAVA_17_HOME="/Library/Java/JavaVirtualMachines/jdk-17.0.4.1.jdk/Contents/Home"
     alias java8='export JAVA_HOME=$JAVA_8_HOME'
-    alias java11='export JAVA_HOME=$JAVA_17_HOME'
+    alias java17='export JAVA_HOME=$JAVA_17_HOME'
     ```
     ![bash_script](https://github.com/yetanothermasterylearning/Core-Java/blob/main/Miscellaneous/Pictures/bash_script.png)
     5. Close and reopen the terminal or source the bash_profile using following command

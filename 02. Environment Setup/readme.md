@@ -1,13 +1,13 @@
 ## Environment Setup ##
 1. JDK installation
-    - Windows
-    - Mac OS
-2. The <span style="color:yellow">Hello World</span> Program using Notepad
-3. Eclipse IDE installation
+    - [Windows](https://github.com/yetanothermasterylearning/Core-Java/tree/main/02.%20Environment%20Setup#:~:text=program%20execution%20flow-,Windows,-JDK%20v1.8%20installation)
+    - [Mac OS](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=System%20properties%20windows.-,Mac,-OS)
+2. [The <span style="color:yellow">Hello World</span> Program using Notepad](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=System%20properties%20windows.-,Mac,-OS)
+3. [Eclipse IDE installation](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=System%20properties%20windows.-,Mac,-OS)
 4. The <span style="color:yellow">Hello World</span> Program using Eclipse IDE
-5. Intellij Idea IDE installation
+5. [Intellij Idea IDE installation](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=System%20properties%20windows.-,Mac,-OS)
 6. The <span style="color:yellow">Hello World</span> Program using Intellij Idea IDE
-7. Java program execution flow
+7. [Java program execution flow](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=System%20properties%20windows.-,Mac,-OS)
 
 ### Windows ###
 - JDK v1.8 installation process for Windows
