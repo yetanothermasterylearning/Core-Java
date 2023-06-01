@@ -18,7 +18,7 @@
     2. Operators
     3. Control statements
     4. Java program structure
-- [Object oriented Programming](https://github.com/yetanothermasterylearning/Core-Java/tree/main/Object%20oriented%20Programming)
+- [Object oriented Programming](https://github.com/yetanothermasterylearning/Core-Java/tree/main/04.%20Object%20oriented%20Programming)
     1. Object oriented Programming Principles
     2. Class
     3. Object
@@ -27,6 +27,9 @@
     6. Abstraction
     7. Interface
     8. Polymorphism
+- [Java Project Strcture](https://github.com/yetanothermasterylearning/Core-Java/tree/main/05.%20Modifiers%20and%20Keywords)
+    1. Project Structure
+    2. Introduction to Maven Core Java project
 - [Modifiers and Keywords](https://github.com/yetanothermasterylearning/Core-Java/tree/main/Modifiers%20and%20Keywords)
     1. Private vs Public vs default vs Protected
     2. Static vs Non static
@@ -54,33 +57,36 @@
     1. Equals
     2. Hashcode
     3. toString
+- Enum
+- Multithreading
+- IO Streams
 - [Collection Framework](https://github.com/yetanothermasterylearning/Core-Java/tree/main/Collection%20Framework)
     1. Data Strctures basics
     2. General collection utilities
     3. Concurrent Collections
-- Multithreading
-- Java 8
+- Java 8 Features
     1. Lambda
     2. Functional interface
     3. Predicate
 - Stream
 - Java Documentation
-- Extra
-    1. Garbage collection
-    2. Assertions
-    3. File IO
-    4. Regex
-    5. Enum
-    6. Jar
-    7. Maven and JUnit
-    8. JVM
+- Garbage collection
+- JVM Architecture
+- Assertions
+- Regular Expressions
 - Adv.OOP
     1. Final class
     2. Marker Interface
 - Eclipse
     1. Short cuts
     2. Perspectives
-    3. Debugging
+- Debugging
+    1. Debugging basics
+    2. Top Down approach
+    3. Bottom Up Approach
+    4. Exception Stack analysis
+- Logging
+    1. Log4J
 - [Miscellaneous](https://github.com/yetanothermasterylearning/Core-Java/tree/main/Miscellaneous)
     1. Managemen multiple Java versions in Mac OS without external tools
     2. Uninstall JDK from Mac OS
