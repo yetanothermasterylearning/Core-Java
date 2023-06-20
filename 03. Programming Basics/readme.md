@@ -15,4 +15,3 @@
 	3. do-while
 	4. for
 	5. Switch
-- Java project structure
