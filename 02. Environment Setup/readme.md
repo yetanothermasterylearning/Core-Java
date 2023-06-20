@@ -8,7 +8,7 @@
 5. [Intellij Idea IDE installation - Optional](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#intellij-idea-ide-installation-and-running-basic-java-project)
 6. The <span style="color:yellow">Hello World</span> Program using Intellij Idea IDE
 7. [Java program execution flow](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#java-program-execution-flow)
-8. ["Hello World!" Program explanation] (https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#hello-world-program-explanation)
+8. ["Hello World!" Program explanation](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#hello-world-program-explanation)
 ### Windows ###
 - JDK v1.8 installation process for Windows
     1. Go to [java v1.8](https://www.oracle.com/java/technologies/downloads/#java8). Click on JDK Download for Java download JDK 8.
