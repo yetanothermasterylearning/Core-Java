@@ -1,14 +1,14 @@
 ## Environment Setup ##
 1. JDK installation
-    - [Windows](https://github.com/yetanothermasterylearning/Core-Java/tree/main/02.%20Environment%20Setup#:~:text=program%20execution%20flow-,Windows,-JDK%20v1.8%20installation)
-    - [Mac OS](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=System%20properties%20windows.-,Mac%20OS,-JDK%20v1.8%20installation)
-2. [The <span style="color:yellow">Hello World</span> Program using Notepad](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=Running%20a%20Sample%20Java%20Program)
-3. [Eclipse IDE installation](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=Eclipse%20IDE%20installation%20and%20Running%20Basic%20java%20project)
+    - [Windows](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#windows)
+    - [Mac OS](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#mac-os)
+2. [The <span style="color:yellow">Hello World</span> Program using Notepad](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#running-a-sample-java-program)
+3. [Eclipse IDE installation](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#eclipse-ide-installation-and-running-basic-java-project)
 4. The <span style="color:yellow">Hello World</span> Program using Eclipse IDE
-5. [Intellij Idea IDE installation - Optional](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=Intellij%20Idea%20IDE%20installation%20and%20Running%20Basic%20java%20project)
+5. [Intellij Idea IDE installation - Optional](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#intellij-idea-ide-installation-and-running-basic-java-project)
 6. The <span style="color:yellow">Hello World</span> Program using Intellij Idea IDE
-7. [Java program execution flow](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#:~:text=at%20Run%20window.-,Java%20program%20execution%20flow,-Java%20program%20execution)
-
+7. [Java program execution flow](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#java-program-execution-flow)
+8. ["Hello World!" Program explanation] (https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/readme.md#hello-world-program-explanation)
 ### Windows ###
 - JDK v1.8 installation process for Windows
     1. Go to [java v1.8](https://www.oracle.com/java/technologies/downloads/#java8). Click on JDK Download for Java download JDK 8.
