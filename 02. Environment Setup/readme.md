@@ -77,29 +77,6 @@
     6. use java commant to run the Sample.java file - `$java Sample`
     ![java run a code](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/Pictures/java_code_run.png)
 
-### "Hello World!" Program explanation ###
-> This section is a brief explanation of the above program. As of now, you have studied only the introduction. Further in the tutorial, you'll find more details. Please skip it if you don't understand it.
-- public class Sample { .. }
-    1. In Java, every application begins with a class definition. In the above program, Sample is the name of the class.
-    2. the class definition syntax:
-    ```
-    class <Class_Name> {
-        ...
-    }
-    ``` 
-    3. public keyword is a access modifier. public class means that it is accessible from outside(globally available) of the current class/file/folder. (Here Java Virtual Machine/Run time can access the sample class from outside.)
-
-- public static void main(String[] args) { ... }
-    1. The Java compiler/Java Virtual Machine starts executing the code from the main method. Every application in Java must contain the main method.
-    2. The signature of the main method needs to be in a specific way(public static void main(String[] ..)) for the JVM to recognize that method as its entry point.
-    3. "public" keyword is a access modifier. public method means that it is accessible from outside(globally available) of the current class/file/folder. (Here Java Virtual Machine/Run time can access the main method from outside.)
-    4. "static" making it a class-related method. Think like static is like a glue whereever the class move in the memory the static method also move. The main() method is static so that JVM can invoke it without instantiating the class, by simply using class name and dot(.) operator.
-    5. "void" is a keyword and is used to specify that a method doesn’t return anything
-    6. "main" is the name of the Java main method.
-
-- System.out.println("Hello World!");
-    1. It a method to print the String/text provide in the brackets () to standard output (console or cmd).
-
 ### Eclipse IDE installation and Running Basic java project ###
 - The <span style="color:yellow">Hello World</span> Program using Eclipse
     1. Download Eclipse [Installer](http://www.eclipse.org/downloads)
@@ -142,4 +119,26 @@
     1. First, the source `.java` file is passed through the compiler, which then encodes the source code into a machine-independent encoding, known as Bytecode. The content of each class contained in the source file is stored in a separate `.class` file and `.class` files are run on top of JRE.
     ![java_execution_flow](https://github.com/yetanothermasterylearning/Core-Java/blob/main/02.%20Environment%20Setup/Pictures/java_execution_flow.png)
 
+### "Hello World!" Program explanation ###
+> This section is a brief explanation of the above program. As of now, you have studied only the introduction. Further in the tutorial, you'll find more details. Please skip it if you don't understand it.
+- public class Sample { .. }
+    1. In Java, every application begins with a class definition. In the above program, Sample is the name of the class.
+    2. the class definition syntax:
+    ```
+    class <Class_Name> {
+        ...
+    }
+    ``` 
+    3. public keyword is a access modifier. public class means that it is accessible from outside(globally available) of the current class/file/folder. (Here Java Virtual Machine/Run time can access the sample class from outside.)
+
+- public static void main(String[] args) { ... }
+    1. The Java compiler/Java Virtual Machine starts executing the code from the main method. Every application in Java must contain the main method.
+    2. The signature of the main method needs to be in a specific way(public static void main(String[] ..)) for the JVM to recognize that method as its entry point.
+    3. "public" keyword is a access modifier. public method means that it is accessible from outside(globally available) of the current class/file/folder. (Here Java Virtual Machine/Run time can access the main method from outside.)
+    4. "static" making it a class-related method. Think like static is like a glue whereever the class move in the memory the static method also move. The main() method is static so that JVM can invoke it without instantiating the class, by simply using class name and dot(.) operator.
+    5. "void" is a keyword and is used to specify that a method doesn’t return anything
+    6. "main" is the name of the Java main method.
+
+- System.out.println("Hello World!");
+    1. It a method to print the String/text provide in the brackets () to standard output (console or cmd).
 
