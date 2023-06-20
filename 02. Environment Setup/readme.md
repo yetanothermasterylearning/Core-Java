@@ -92,10 +92,10 @@
 - public static void main(String[] args) { ... }
     1. The Java compiler/Java Virtual Machine starts executing the code from the main method. Every application in Java must contain the main method.
     2. The signature of the main method needs to be in a specific way(public static void main(String[] ..)) for the JVM to recognize that method as its entry point.
-    3. public keyword is a access modifier. public method means that it is accessible from outside(globally available) of the current class/file/folder. (Here Java Virtual Machine/Run time can access the main method from outside.)
-    4. Static making it a class-related method. Think like static is like a glue whereever the class move in the memory the static method also move. The main() method is static so that JVM can invoke it without instantiating the class, by simply using class name and dot(.) operator.
-    5. void is a keyword and is used to specify that a method doesn’t return anything
-    6. main is the name of the Java main method.
+    3. "public" keyword is a access modifier. public method means that it is accessible from outside(globally available) of the current class/file/folder. (Here Java Virtual Machine/Run time can access the main method from outside.)
+    4. "static" making it a class-related method. Think like static is like a glue whereever the class move in the memory the static method also move. The main() method is static so that JVM can invoke it without instantiating the class, by simply using class name and dot(.) operator.
+    5. "void" is a keyword and is used to specify that a method doesn’t return anything
+    6. "main" is the name of the Java main method.
 
 - System.out.println("Hello World!");
     1. It a method to print the String/text provide in the brackets () to standard output (console or cmd).
