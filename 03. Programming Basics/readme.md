@@ -113,13 +113,13 @@
 	
 	- || (or)
 		- True if either of the operands is true
-		
-		| 	   a  	 | 	   b  	  |     a || b 	  |
-		| ---------- | ---------- | ------------- |
-		| 	 true	 | 	  true	  |  	 true	  |
-		| 	 true	 | 	  false	  |  	 true	  |
-		| 	 false	 | 	  false	  |  	 true	  |
-		| 	 false	 | 	  false	  |  	 false	  |
+- 
+	| 	   a  	 | 	   b  	  |     a || b 	  |
+	| ---------- | ---------- | ------------- |
+	| 	 true	 | 	  true	  |  	 true	  |
+	| 	 true	 | 	  false	  |  	 true	  |
+	| 	 false	 | 	  false	  |  	 true	  |
+	| 	 false	 | 	  false	  |  	 false	  |
 	
 	- ! (not)
 		- True if an operand is false
