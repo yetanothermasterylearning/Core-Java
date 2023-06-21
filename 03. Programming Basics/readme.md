@@ -9,19 +9,19 @@
 		- E.g: int classSize = 100; double myBankBalance = 100.00;
 
 -  A data type is define the type of values which are stored in a variable. They are mainly classified into 2 different categories 
-	1. Primitive data types: predefined in Java and those are the “basic” data values. There are eight types
-		i. boolean -- used for true and false values
-		ii. char -- used for single character
-		iii. whole number type : four different kinds of integer values
-			byte - 1 byte 	(range : -128 to 127), 
-			short - 2 bytes (range : -32,768 to 32,767),
-			int - 4 bytes 	(range : -2,147,483,648 to 2,147,483,647),
-			long - 8 bytes 	(range : -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807),
-		iv. Decimal data types: two different kinds of decimal number(numbers with a decimal point) values
-			float - 4 bytes,  8 digits of accuracy,  (range : 3.4e-0.38.. 3.4e+0.38),
-			double - 8 bytes, 15 digits of accuracy (range : 1.7e-308.. 1.7e+308),
-	2. Reference data types: “advanced” data values that contain address/reference of complex data(i.e objects)
-		Further in the next tutorial, you'll find more details.
+	- Primitive data types: predefined in Java and those are the “basic” data values. There are eight types
+		- boolean -- used for true and false values
+		- char -- used for single character
+		- whole number type : four different kinds of integer values
+			- byte - 1 byte 	(range : -128 to 127), 
+			- short - 2 bytes (range : -32,768 to 32,767),
+			- int - 4 bytes 	(range : -2,147,483,648 to 2,147,483,647),
+			- long - 8 bytes 	(range : -9,223,372,036,854,775,808 to 9,223,372,036,854,775,807)
+		- Decimal data types: two different kinds of decimal number(numbers with a decimal point) values
+			- float - 4 bytes,  8 digits of accuracy,  (range : 3.4e-0.38.. 3.4e+0.38),
+			- double - 8 bytes, 15 digits of accuracy (range : 1.7e-308.. 1.7e+308),
+	- Reference data types: “advanced” data values that contain address/reference of complex data(i.e objects)
+> Further in the next tutorial, you'll find more details.
 
 ### Data Type Example ###
     ```
@@ -101,7 +101,8 @@
 	}
     ```
 - Logical Operations/short circuit Operations
-	1. && (and) : True if both the operands is true
+	- && (and)
+		- True if both the operands is true
 
 	| 	   a  	 | 	   b  	  |     a && b 	  |
 	| ---------- | ---------- | ------------- |
@@ -110,7 +111,8 @@
 	| 	 false	 | 	  false	  |  	 false	  |
 	| 	 false	 | 	  false	  |  	 false	  |
 	
-	2. || (or)	: True if either of the operands is true
+	- || (or)
+		- True if either of the operands is true
 
 	| 	   a  	 | 	   b  	  |     a || b 	  |
 	| ---------- | ---------- | ------------- |
@@ -119,7 +121,8 @@
 	| 	 false	 | 	  false	  |  	 true	  |
 	| 	 false	 | 	  false	  |  	 false	  |
 	
-	3. ! (not)	: True if an operand is false
+	- ! (not)
+		- True if an operand is false
 
 	| 	   a  	 | 	   !a  	  |
 	| ---------- | ---------- |
@@ -147,13 +150,13 @@
 > during || execution, if left side operation is true then it doesn't need to evaluate the right side of ||.
 
 - Unary operators - Unary operators are the one that needs a single operand 
-	1. ++ used to increment a value by 1.
-		a++ is post-increment operator
-		++a ia pre-increment operator
-	2. -- used to decrement a value by 1.
-		a-- is post-increment operator
-		--a ia pre-increment operator
-	3. Operator Order of precedence
+	- ++ used to increment a value by 1.
+		- a++ is post-increment operator
+		- ++a ia pre-increment operator
+	- -- used to decrement a value by 1.
+		- a-- is post-increment operator
+		- --a ia pre-increment operator
+	- Operator Order of precedence
 
 - Assignment Operators - used to assign a new value to a variable
 	1. = Assigns values from right side operands to left side operand
