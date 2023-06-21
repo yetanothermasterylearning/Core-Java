@@ -141,4 +141,5 @@
 
 - System.out.println("Hello World!");
     1. It a method to print the String/text provide in the brackets () to standard output (console or cmd).
+    2. You can use + symbol to concat strings like "System.out.println("Hello "+"World!");"
 
