@@ -1,14 +1,12 @@
 ## Programming Basics ##
 ###  Data types, Operators and Variables ###
 - A variable is a data container that saves the data values during Java program execution.
-	1. Variable declaration: 
-		syntax: Datatype variableName;
-		E.g: int classSize;
-			 double myBankBalance;
-	2. Variable Initialization:
-		syntax: Datatype variableName = value;
-		E.g: int classSize = 100;
-			 double myBankBalance = 100.00;
+	- Variable declaration: 
+		- syntax: Datatype variableName;
+		- E.g: int classSize; double myBankBalance;
+	- Variable Initialization:
+		- syntax: Datatype variableName = value;
+		- E.g: int classSize = 100; double myBankBalance = 100.00;
 
 -  A data type is define the type of values which are stored in a variable. They are mainly classified into 2 different categories 
 	1. Primitive data types: predefined in Java and those are the “basic” data values. There are eight types
@@ -48,9 +46,9 @@
 	}
     ```
 - Arithmetic operations - Perform arithmetic operations such as addition, subtraction, multiplication, division and modulus.
-	1. + for addition
-	2. - for subtraction
-	3. * for multiplication (Old computers did not have the x character)
+	1. \+ for addition
+	2. \- for subtraction
+	3. \* for multiplication (Old computers did not have the x character)
 	4. / for division
 	5. % for remainder
     ```
@@ -69,8 +67,8 @@
 	}
     ```
 - Sign operators (change the sign of the value)
-	1. + for positive number
-	2. - for negative number
+	1. \+ for positive number
+	2. \- for negative number
 	```
 	public static void main(String[] args) {
 		int a = +5, b = -3;
@@ -103,7 +101,7 @@
 	}
     ```
 - Logical Operations/short circuit Operations
-	1. && (and) 	True if both the operands is true
+	1. && (and) : True if both the operands is true
 
 	| 	   a  	 | 	   b  	  |     a && b 	  |
 	| ---------- | ---------- | ------------- |
@@ -112,7 +110,7 @@
 	| 	 false	 | 	  false	  |  	 false	  |
 	| 	 false	 | 	  false	  |  	 false	  |
 	
-	2. || (or)		True if either of the operands is true
+	2. || (or)	: True if either of the operands is true
 
 	| 	   a  	 | 	   b  	  |     a || b 	  |
 	| ---------- | ---------- | ------------- |
@@ -121,7 +119,7 @@
 	| 	 false	 | 	  false	  |  	 true	  |
 	| 	 false	 | 	  false	  |  	 false	  |
 	
-	3. ! (not)		True if an operand is false
+	3. ! (not)	: True if an operand is false
 
 	| 	   a  	 | 	   !a  	  |
 	| ---------- | ---------- |
@@ -143,7 +141,9 @@
 	}
     ```
 > Logical Operations are evaluated left to right. && has higher precedence than ||. 
+
 > during && execution, it need to evaluate both (left and right) sides of &&.
+
 > during || execution, if left side operation is true then it doesn't need to evaluate the right side of ||.
 
 - Unary operators - Unary operators are the one that needs a single operand 
