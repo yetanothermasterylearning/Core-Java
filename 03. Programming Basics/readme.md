@@ -24,7 +24,7 @@
 > Further in the next tutorial(Object oriented programming), you'll find more details.
 
 ### Data Type Example ###
-    ```
+```
 	public static void main(String[] args) {
 		boolean booleanVariable = true;
 		char charVariable = 'a';
@@ -44,7 +44,7 @@
 		System.out.println("Float :" +floatVariable);
 		System.out.println("Double :" +doubleVariable);
 	}
-    ```
+```
 - Arithmetic operations - Perform arithmetic operations such as addition, subtraction, multiplication, division and modulus.
 	1. \+ for addition
 	2. \- for subtraction
