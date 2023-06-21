@@ -25,25 +25,24 @@
 
 ### Data Type Example ###
 ```
-	public static void main(String[] args) {
-		boolean booleanVariable = true;
-		char charVariable = 'a';
-		byte byteVariable = 32;
-		short shortVariable = 23456;
-		int intVariable = 56789;
-		long longVariable = 123456789l;
-		float floatVariable = 123456.78f;
-		double doubleVariable = 123456.78;
-		
-		System.out.println("Boolean :" +booleanVariable);
-		System.out.println("Character :" +charVariable);
-		System.out.println("Byte :" +byteVariable);
-		System.out.println("Short :" +shortVariable);
-		System.out.println("Integer :" +intVariable);
-		System.out.println("Long :" +longVariable);
-		System.out.println("Float :" +floatVariable);
-		System.out.println("Double :" +doubleVariable);
-	}
+public static void main(String[] args) {
+	boolean booleanVariable = true;
+	char charVariable = 'a';
+	byte byteVariable = 32;
+	short shortVariable = 23456;
+	int intVariable = 56789;
+	long longVariable = 123456789l;
+	float floatVariable = 123456.78f;
+	double doubleVariable = 123456.78;		
+	System.out.println("Boolean :" +booleanVariable);
+	System.out.println("Character :" +charVariable);
+	System.out.println("Byte :" +byteVariable);
+	System.out.println("Short :" +shortVariable);
+	System.out.println("Integer :" +intVariable);
+	System.out.println("Long :" +longVariable);
+	System.out.println("Float :" +floatVariable);
+	System.out.println("Double :" +doubleVariable);
+}
 ```
 - Arithmetic operations - Perform arithmetic operations such as addition, subtraction, multiplication, division and modulus.
 	1. \+ for addition
