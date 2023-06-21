@@ -154,10 +154,40 @@
 	- ++ used to increment a value by 1.
 		- a++ is post-increment operator
 		- ++a ia pre-increment operator
+	```
+	public static void main(String[] args) {
+		int a = 10;
+		int b = a++; // post increment => assign a(10) value to b and increse a value by 1
+        System.out.println(b);  //returns 10
+        System.out.println(a);  //returns 11
+        a = 10;
+		b = ++a; // pre increment => increse a value by 1 and assign a(11) value to b
+        System.out.println(b);  //returns 11
+        System.out.println(a);  //returns 11
+    }
+	```
 	- -- used to decrement a value by 1.
-		- a-- is post-increment operator
-		- --a ia pre-increment operator
+		- a-- is post-decrement operator
+		- --a ia pre-decrements operator
+		> practice below problem and check the a and b values
+	```
+	public static void main(String[] args) {
+		int a = 10;
+		int b = a--; // post-decrement 
+        System.out.println(b);  //what is b value??
+        System.out.println(a);  //what is a value??
+        a = 10;
+		b = ++a; // pre-decrement 
+        System.out.println(b);  //what is b value??
+        System.out.println(a);  //what is a value??
+    }
+	```
+
 	- Operator Order of precedence
+		- \(\) Brackets are used for separation and prioritizing operations
+		- Multiplication, division, and modulo operations have precedence over addition and subtraction operations.
+			- e.g: (2 + 3) * 4 is 20
+			- e.g:  24 / (3 * (10 - 6)) => 24 / (3 * 4) => 24 / 12 is 2
 
 - Assignment Operators - used to assign a new value to a variable
 	1. = Assigns values from right side operands to left side operand
@@ -169,6 +199,7 @@
 
 - Control statements
 	1. If else
+	2. Ternary Operator
 	2. While
 	3. do-while
 	4. for
