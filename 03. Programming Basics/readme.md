@@ -114,7 +114,7 @@
 	- \|| (or)
 		- True if either of the operands is true
   
-	| 	   a  	 | 	   b  	  |     a &#124;&#124; b 	  |
+	| 	   a  	 | 	   b  	  |     a &#124;&#124; b|
 	| ---------- | ---------- | ------------- |
 	| 	 true	 | 	  true	  |  	 true	  |
 	| 	 true	 | 	  false	  |  	 true	  |
