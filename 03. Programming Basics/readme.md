@@ -113,7 +113,6 @@
 	
 	- || (or)
 		- True if either of the operands is true
-
 	| 	   a  	 | 	   b  	  |     a || b 	  |
 	| ---------- | ---------- | ------------- |
 	| 	 true	 | 	  true	  |  	 true	  |
