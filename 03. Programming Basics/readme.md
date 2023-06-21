@@ -102,7 +102,7 @@
     ```
 - Logical Operations/short circuit Operations
 	- && (and)
-		- True if both the operands is true
+		- True if both the operands are true
 
 	| 	   a  	 | 	   b  	  |     a && b 	  |
 	| ---------- | ---------- | ------------- |
@@ -113,7 +113,7 @@
 	
 	- || (or)
 		- True if either of the operands is true
-- 
+  
 	| 	   a  	 | 	   b  	  |     a || b 	  |
 	| ---------- | ---------- | ------------- |
 	| 	 true	 | 	  true	  |  	 true	  |
