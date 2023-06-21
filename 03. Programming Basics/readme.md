@@ -21,7 +21,7 @@
 			- float - 4 bytes,  8 digits of accuracy,  (range : 3.4e-0.38.. 3.4e+0.38),
 			- double - 8 bytes, 15 digits of accuracy (range : 1.7e-308.. 1.7e+308),
 	- Reference data types: “advanced” data values that contain address/reference of complex data(i.e objects)
-> Further in the next tutorial, you'll find more details.
+> Further in the next tutorial(Object oriented programming), you'll find more details.
 
 ### Data Type Example ###
     ```
